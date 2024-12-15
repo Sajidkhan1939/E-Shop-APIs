@@ -1,0 +1,17 @@
+# Build and Debug files
+bin/
+obj/
+
+# User-specific files
+*.csproj.user
+*.suo
+*.user
+*.cache
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Others
+.vscode/
